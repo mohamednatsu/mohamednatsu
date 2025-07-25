@@ -72,7 +72,8 @@ An online platform where artists showcase their work, collaborate, and participa
 ---
 
 ## 🌍 **What I’m Working On**  
-- Senior-level **React Native** and **.NET Core** projects  
+- Senior-level **React Native** and **Node js** projects  
+- Senior-level MERN Stack projects  
 - Advanced **AI and machine learning** models  
 - Building personal branding through open-source contributions  
 
